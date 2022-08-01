@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BMICalculatorS017</string>
+    <string name="tv1">あなたの肥満度は</string>
+    <string name="tv2">あなたの適正体重は</string>
+    <string name="old">年齢</string>
+    <string name="high">身長</string>
+    <string name="weight">体重</string>
+    <string name="SAI">歳</string>
+    <string name="CM">cm</string>
+    <string name="KG">kg</string>
+    <string name="dl_title">警告</string>
+    <string name="dl_message">適切な肥満度を求めるためには、6歳未満の場合はカウプ関数が、６歳から１５歳まではローレル関数が使われます。本アプリはBMIのみに対応しています。</string>
+    <string name="bt_clear">クリア</string>
+    <string name="bt_calculation">計算</string>
+    <string name="confirm">確認</string>
+
+
+</resources>
